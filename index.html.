@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nexus Gaming Studios - Innovating Interactive Entertainment</title>
+    <meta name="description" content="Nexus Gaming Studios develops immersive video games across multiple platforms. Discover our latest titles, company values, and career opportunities in the gaming industry.">
+    <meta name="keywords" content="gaming company, video games, game development, indie games, immersive games, gaming studio, Nexus Gaming">
+    <meta name="author" content="Nexus Gaming Studios">
+    <link rel="canonical" href="https://www.nexusgamingstudios.com/index.html">
+</head>
+<body>
+
+    <header role="banner">
+        <h1>Nexus Gaming Studios</h1>
+        <p>Innovating Interactive Entertainment for a New Generation</p>
+    </header>
+
+    <nav aria-label="Main navigation">
+        <ul>
+            <li><a href="#about-us">About Us</a></li>
+            <li><a href="#games">Our Games</a></li>
+            <li><a href="#careers">Careers</a></li>
+            <li><a href="#news">News</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main role="main">
+        <section id="about-us" aria-labelledby="about-us-heading">
+            <h2 id="about-us-heading">About Nexus Gaming Studios</h2>
+            <p>At Nexus Gaming Studios, we are passionate about crafting unforgettable gaming experiences. Founded in 20XX, our team of dedicated developers, artists, and storytellers strives to push the boundaries of interactive entertainment.</p>
+            <article aria-labelledby="our-philosophy-heading">
+                <h3 id="our-philosophy-heading">Our Philosophy: Play Beyond Limits</h3>
+                <p>We believe in fostering creativity, encouraging player engagement, and building vibrant communities around our games. Every title we develop is a journey into new worlds and exciting challenges.</p>
+            </article>
+        </section>
+
+        <section id="games" aria-labelledby="games-heading">
+            <h2 id="games-heading">Our Games</h2>
+            <figure>
+                <figcaption>Explore our diverse portfolio of award-winning and upcoming titles.</figcaption>
+                <details>
+                    <summary>Crimson Ascent (Fantasy RPG)</summary>
+                    <p>An epic fantasy role-playing game where players explore vast lands, forge alliances, and uncover ancient secrets.</p>
+                    <img src="crimson-ascent-thumbnail.jpg" alt="Artwork for Crimson Ascent, a fantasy RPG showing a dragon." width="300" height="150">
+                    <a href="game-crimson-ascent.html" aria-label="Learn more about Crimson Ascent">View Game Page</a>
+                </details>
+                <details>
+                    <summary>Stellar Drift (Sci-Fi Shooter)</summary>
+                    <p>Fast-paced interstellar combat in a universe on the brink of war. Master unique ships and tactical maneuvers.</p>
+                    <img src="stellar-drift-thumbnail.jpg" alt="Screenshot from Stellar Drift, a sci-fi shooter game." width="300" height="150">
+                    <a href="game-stellar-drift.html" aria-label="Learn more about Stellar Drift">View Game Page</a>
+                </details>
+                <details>
+                    <summary>Pixel Pioneers (Retro Platformer)</summary>
+                    <p>A charming pixel-art platformer with challenging levels and a heartwarming story. Nostalgia meets modern design.</p>
+                    <img src="pixel-pioneers-thumbnail.jpg" alt="Pixel art screenshot from Pixel Pioneers, a platformer game." width="300" height="150">
+                    <a href="game-pixel-pioneers.html" aria-label="Learn more about Pixel Pioneers">View Game Page</a>
+                </details>
+            </figure>
+        </section>
+
+        <section id="careers" aria-labelledby="careers-heading">
+            <h2 id="careers-heading">Join Our Team</h2>
+            <p>Are you passionate about making games? Nexus Gaming Studios is always looking for talented individuals to join our growing family. Explore opportunities in design, programming, art, and more.</p>
+            <article aria-labelledby="open-positions-heading">
+                <h3 id="open-positions-heading">Current Open Positions</h3>
+                <ul>
+                    <li><a href="careers-game-designer.html" aria-label="View Game Designer job opening">Senior Game Designer</a></li>
+                    <li><a href="careers-unity-developer.html" aria-label="View Unity Developer job opening">Unity Developer</a></li>
+                    <li><a href="careers-concept-artist.html" aria-label="View Concept Artist job opening">Concept Artist</a></li>
+                </ul>
+            </article>
+            <p>Visit our <a href="careers-portal.html">Careers Portal</a> for more information and to apply.</p>
+        </section>
+
+        <section id="news" aria-labelledby="news-heading">
+            <h2 id="news-heading">Latest News & Updates</h2>
+            <article aria-labelledby="news1-heading">
+                <header>
+                    <h3 id="news1-heading">Crimson Ascent Expands with 'Sundered Isles' DLC!</h3>
+                    <time datetime="2023-11-15">November 15, 2023</time>
+                </header>
+                <p>Prepare for new adventures! Our flagship title, Crimson Ascent, is receiving its biggest expansion yet, featuring new regions, quests, and enemies.</p>
+                <footer>
+                    <a href="news-crimson-ascent-dlc.html" aria-label="Read more about Crimson Ascent DLC">Read More</a>
+                </footer>
+            </article>
+            <article aria-labelledby="news2-heading">
+                <header>
+                    <h3 id="news2-heading">Nexus Gaming Studios Attends Global Game Jam 2024</h3>
+                    <time datetime="2023-11-01">November 01, 2023</time>
+                </header>
+                <p>Our development team had a fantastic time at this year's Global Game Jam, showcasing our innovative spirit and collaborative prowess.</p>
+                <footer>
+                    <a href="news-global-game-jam.html" aria-label="Read more about Global Game Jam attendance">Read More</a>
+                </footer>
+            </article>
+        </section>
+
+        <aside role="complementary" aria-labelledby="social-media-heading">
+            <h2 id="social-media-heading">Connect With Us</h2>
+            <ul>
+                <li><a href="https://twitter.com/nexusgaming" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+                <li><a href="https://facebook.com/nexusgaming" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+                <li><a href="https://youtube.com/nexusgaming" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+            </ul>
+        </aside>
+    </main>
+
+    <footer role="contentinfo">
+        <address id="contact">
+            <p>Nexus Gaming Studios Headquarters</p>
+            <p>123 Game Dev Alley, Pixel City, GD 90210</p>
+            <p>Email: <a href="mailto:info@nexusgamingstudios.com">info@nexusgamingstudios.com</a></p>
+            <p>Phone: <a href="tel:+15551234567">+1 (555) 123-4567</a></p>
+        </address>
+        <small>&copy; 2023 Nexus Gaming Studios. All rights reserved. <a href="privacy-policy.html">Privacy Policy</a> | <a href="terms-of-service.html">Terms of Service</a></small>
+    </footer>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nexus Gaming Studios - Innovating Interactive Entertainment</title>
+    <meta name="description" content="Nexus Gaming Studios develops immersive video games across multiple platforms. Discover our latest titles, company values, and career opportunities in the gaming industry.">
+    <meta name="keywords" content="gaming company, video games, game development, indie games, immersive games, gaming studio, Nexus Gaming">
+    <meta name="author" content="Nexus Gaming Studios">
+    <link rel="canonical" href="https://www.nexusgamingstudios.com/index.html">
+</head>
+<body>
+
+    <header role="banner">
+        <h1>Nexus Gaming Studios</h1>
+        <p>Innovating Interactive Entertainment for a New Generation</p>
+    </header>
+
+    <nav aria-label="Main navigation">
+        <ul>
+            <li><a href="#about-us">About Us</a></li>
+            <li><a href="#games">Our Games</a></li>
+            <li><a href="#careers">Careers</a></li>
+            <li><a href="#news">News</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main role="main">
+        <section id="about-us" aria-labelledby="about-us-heading">
+            <h2 id="about-us-heading">About Nexus Gaming Studios</h2>
+            <p>At Nexus Gaming Studios, we are passionate about crafting unforgettable gaming experiences. Founded in 20XX, our team of dedicated developers, artists, and storytellers strives to push the boundaries of interactive entertainment.</p>
+            <article aria-labelledby="our-philosophy-heading">
+                <h3 id="our-philosophy-heading">Our Philosophy: Play Beyond Limits</h3>
+                <p>We believe in fostering creativity, encouraging player engagement, and building vibrant communities around our games. Every title we develop is a journey into new worlds and exciting challenges.</p>
+            </article>
+        </section>
+
+        <section id="games" aria-labelledby="games-heading">
+            <h2 id="games-heading">Our Games</h2>
+            <figure>
+                <figcaption>Explore our diverse portfolio of award-winning and upcoming titles.</figcaption>
+                <details>
+                    <summary>Crimson Ascent (Fantasy RPG)</summary>
+                    <p>An epic fantasy role-playing game where players explore vast lands, forge alliances, and uncover ancient secrets.</p>
+                    <img src="crimson-ascent-thumbnail.jpg" alt="Artwork for Crimson Ascent, a fantasy RPG showing a dragon." width="300" height="150">
+                    <a href="game-crimson-ascent.html" aria-label="Learn more about Crimson Ascent">View Game Page</a>
+                </details>
+                <details>
+                    <summary>Stellar Drift (Sci-Fi Shooter)</summary>
+                    <p>Fast-paced interstellar combat in a universe on the brink of war. Master unique ships and tactical maneuvers.</p>
+                    <img src="stellar-drift-thumbnail.jpg" alt="Screenshot from Stellar Drift, a sci-fi shooter game." width="300" height="150">
+                    <a href="game-stellar-drift.html" aria-label="Learn more about Stellar Drift">View Game Page</a>
+                </details>
+                <details>
+                    <summary>Pixel Pioneers (Retro Platformer)</summary>
+                    <p>A charming pixel-art platformer with challenging levels and a heartwarming story. Nostalgia meets modern design.</p>
+                    <img src="pixel-pioneers-thumbnail.jpg" alt="Pixel art screenshot from Pixel Pioneers, a platformer game." width="300" height="150">
+                    <a href="game-pixel-pioneers.html" aria-label="Learn more about Pixel Pioneers">View Game Page</a>
+                </details>
+            </figure>
+        </section>
+
+        <section id="careers" aria-labelledby="careers-heading">
+            <h2 id="careers-heading">Join Our Team</h2>
+            <p>Are you passionate about making games? Nexus Gaming Studios is always looking for talented individuals to join our growing family. Explore opportunities in design, programming, art, and more.</p>
+            <article aria-labelledby="open-positions-heading">
+                <h3 id="open-positions-heading">Current Open Positions</h3>
+                <ul>
+                    <li><a href="careers-game-designer.html" aria-label="View Game Designer job opening">Senior Game Designer</a></li>
+                    <li><a href="careers-unity-developer.html" aria-label="View Unity Developer job opening">Unity Developer</a></li>
+                    <li><a href="careers-concept-artist.html" aria-label="View Concept Artist job opening">Concept Artist</a></li>
+                </ul>
+            </article>
+            <p>Visit our <a href="careers-portal.html">Careers Portal</a> for more information and to apply.</p>
+        </section>
+
+        <section id="news" aria-labelledby="news-heading">
+            <h2 id="news-heading">Latest News & Updates</h2>
+            <article aria-labelledby="news1-heading">
+                <header>
+                    <h3 id="news1-heading">Crimson Ascent Expands with 'Sundered Isles' DLC!</h3>
+                    <time datetime="2023-11-15">November 15, 2023</time>
+                </header>
+                <p>Prepare for new adventures! Our flagship title, Crimson Ascent, is receiving its biggest expansion yet, featuring new regions, quests, and enemies.</p>
+                <footer>
+                    <a href="news-crimson-ascent-dlc.html" aria-label="Read more about Crimson Ascent DLC">Read More</a>
+                </footer>
+            </article>
+            <article aria-labelledby="news2-heading">
+                <header>
+                    <h3 id="news2-heading">Nexus Gaming Studios Attends Global Game Jam 2024</h3>
+                    <time datetime="2023-11-01">November 01, 2023</time>
+                </header>
+                <p>Our development team had a fantastic time at this year's Global Game Jam, showcasing our innovative spirit and collaborative prowess.</p>
+                <footer>
+                    <a href="news-global-game-jam.html" aria-label="Read more about Global Game Jam attendance">Read More</a>
+                </footer>
+            </article>
+        </section>
+
+        <aside role="complementary" aria-labelledby="social-media-heading">
+            <h2 id="social-media-heading">Connect With Us</h2>
+            <ul>
+                <li><a href="https://twitter.com/nexusgaming" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+                <li><a href="https://facebook.com/nexusgaming" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+                <li><a href="https://youtube.com/nexusgaming" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+            </ul>
+        </aside>
+    </main>
+
+    <footer role="contentinfo">
+        <address id="contact">
+            <p>Nexus Gaming Studios Headquarters</p>
+            <p>123 Game Dev Alley, Pixel City, GD 90210</p>
+            <p>Email: <a href="mailto:info@nexusgamingstudios.com">info@nexusgamingstudios.com</a></p>
+            <p>Phone: <a href="tel:+15551234567">+1 (555) 123-4567</a></p>
+        </address>
+        <small>&copy; 2023 Nexus Gaming Studios. All rights reserved. <a href="privacy-policy.html">Privacy Policy</a> | <a href="terms-of-service.html">Terms of Service</a></small>
+    </footer>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nexus Gaming Studios - Innovating Interactive Entertainment</title>
+    <meta name="description" content="Nexus Gaming Studios develops immersive video games across multiple platforms. Discover our latest titles, company values, and career opportunities in the gaming industry.">
+    <meta name="keywords" content="gaming company, video games, game development, indie games, immersive games, gaming studio, Nexus Gaming">
+    <meta name="author" content="Nexus Gaming Studios">
+    <link rel="canonical" href="https://www.nexusgamingstudios.com/index.html">
+</head>
+<body>
+
+    <header role="banner">
+        <h1>Nexus Gaming Studios</h1>
+        <p>Innovating Interactive Entertainment for a New Generation</p>
+    </header>
+
+    <nav aria-label="Main navigation">
+        <ul>
+            <li><a href="#about-us">About Us</a></li>
+            <li><a href="#games">Our Games</a></li>
+            <li><a href="#careers">Careers</a></li>
+            <li><a href="#news">News</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main role="main">
+        <section id="about-us" aria-labelledby="about-us-heading">
+            <h2 id="about-us-heading">About Nexus Gaming Studios</h2>
+            <p>At Nexus Gaming Studios, we are passionate about crafting unforgettable gaming experiences. Founded in 20XX, our team of dedicated developers, artists, and storytellers strives to push the boundaries of interactive entertainment.</p>
+            <article aria-labelledby="our-philosophy-heading">
+                <h3 id="our-philosophy-heading">Our Philosophy: Play Beyond Limits</h3>
+                <p>We believe in fostering creativity, encouraging player engagement, and building vibrant communities around our games. Every title we develop is a journey into new worlds and exciting challenges.</p>
+            </article>
+        </section>
+
+        <section id="games" aria-labelledby="games-heading">
+            <h2 id="games-heading">Our Games</h2>
+            <figure>
+                <figcaption>Explore our diverse portfolio of award-winning and upcoming titles.</figcaption>
+                <details>
+                    <summary>Crimson Ascent (Fantasy RPG)</summary>
+                    <p>An epic fantasy role-playing game where players explore vast lands, forge alliances, and uncover ancient secrets.</p>
+                    <img src="crimson-ascent-thumbnail.jpg" alt="Artwork for Crimson Ascent, a fantasy RPG showing a dragon." width="300" height="150">
+                    <a href="game-crimson-ascent.html" aria-label="Learn more about Crimson Ascent">View Game Page</a>
+                </details>
+                <details>
+                    <summary>Stellar Drift (Sci-Fi Shooter)</summary>
+                    <p>Fast-paced interstellar combat in a universe on the brink of war. Master unique ships and tactical maneuvers.</p>
+                    <img src="stellar-drift-thumbnail.jpg" alt="Screenshot from Stellar Drift, a sci-fi shooter game." width="300" height="150">
+                    <a href="game-stellar-drift.html" aria-label="Learn more about Stellar Drift">View Game Page</a>
+                </details>
+                <details>
+                    <summary>Pixel Pioneers (Retro Platformer)</summary>
+                    <p>A charming pixel-art platformer with challenging levels and a heartwarming story. Nostalgia meets modern design.</p>
+                    <img src="pixel-pioneers-thumbnail.jpg" alt="Pixel art screenshot from Pixel Pioneers, a platformer game." width="300" height="150">
+                    <a href="game-pixel-pioneers.html" aria-label="Learn more about Pixel Pioneers">View Game Page</a>
+                </details>
+            </figure>
+        </section>
+
+        <section id="careers" aria-labelledby="careers-heading">
+            <h2 id="careers-heading">Join Our Team</h2>
+            <p>Are you passionate about making games? Nexus Gaming Studios is always looking for talented individuals to join our growing family. Explore opportunities in design, programming, art, and more.</p>
+            <article aria-labelledby="open-positions-heading">
+                <h3 id="open-positions-heading">Current Open Positions</h3>
+                <ul>
+                    <li><a href="careers-game-designer.html" aria-label="View Game Designer job opening">Senior Game Designer</a></li>
+                    <li><a href="careers-unity-developer.html" aria-label="View Unity Developer job opening">Unity Developer</a></li>
+                    <li><a href="careers-concept-artist.html" aria-label="View Concept Artist job opening">Concept Artist</a></li>
+                </ul>
+            </article>
+            <p>Visit our <a href="careers-portal.html">Careers Portal</a> for more information and to apply.</p>
+        </section>
+
+        <section id="news" aria-labelledby="news-heading">
+            <h2 id="news-heading">Latest News & Updates</h2>
+            <article aria-labelledby="news1-heading">
+                <header>
+                    <h3 id="news1-heading">Crimson Ascent Expands with 'Sundered Isles' DLC!</h3>
+                    <time datetime="2023-11-15">November 15, 2023</time>
+                </header>
+                <p>Prepare for new adventures! Our flagship title, Crimson Ascent, is receiving its biggest expansion yet, featuring new regions, quests, and enemies.</p>
+                <footer>
+                    <a href="news-crimson-ascent-dlc.html" aria-label="Read more about Crimson Ascent DLC">Read More</a>
+                </footer>
+            </article>
+            <article aria-labelledby="news2-heading">
+                <header>
+                    <h3 id="news2-heading">Nexus Gaming Studios Attends Global Game Jam 2024</h3>
+                    <time datetime="2023-11-01">November 01, 2023</time>
+                </header>
+                <p>Our development team had a fantastic time at this year's Global Game Jam, showcasing our innovative spirit and collaborative prowess.</p>
+                <footer>
+                    <a href="news-global-game-jam.html" aria-label="Read more about Global Game Jam attendance">Read More</a>
+                </footer>
+            </article>
+        </section>
+
+        <aside role="complementary" aria-labelledby="social-media-heading">
+            <h2 id="social-media-heading">Connect With Us</h2>
+            <ul>
+                <li><a href="https://twitter.com/nexusgaming" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+                <li><a href="https://facebook.com/nexusgaming" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+                <li><a href="https://youtube.com/nexusgaming" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+            </ul>
+        </aside>
+    </main>
+
+    <footer role="contentinfo">
+        <address id="contact">
+            <p>Nexus Gaming Studios Headquarters</p>
+            <p>123 Game Dev Alley, Pixel City, GD 90210</p>
+            <p>Email: <a href="mailto:info@nexusgamingstudios.com">info@nexusgamingstudios.com</a></p>
+            <p>Phone: <a href="tel:+15551234567">+1 (555) 123-4567</a></p>
+        </address>
+        <small>&copy; 2023 Nexus Gaming Studios. All rights reserved. <a href="privacy-policy.html">Privacy Policy</a> | <a href="terms-of-service.html">Terms of Service</a></small>
+    </footer>
+
+</body>
+</html>
